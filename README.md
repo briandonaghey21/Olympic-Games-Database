@@ -1,4 +1,4 @@
-# CS 1555 Term Project Phases 2+
+# CS 1555 Term Project
 
 ## Phase 2
 
