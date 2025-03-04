@@ -1,5 +1,14 @@
 # CS 1555 Term Project
 
+## Phase 1
+The most recently committed SVG of the diagram is shown below.
+
+![Current diagram](out.svg)
+
+I use `dot -Tsvg er-model-diagram.dot > out.svg` to compile the DOT file to an SVG.
+
+You can download GraphViz [here](https://graphviz.org/download/). Alternatively, if you have Homebrew installed on Mac, you can do `brew install graphviz`.
+
 ## Phase 2
 
 For phase 2, please refer to `schema.sql`, `triggers.sql`, and `functions.sql`.
